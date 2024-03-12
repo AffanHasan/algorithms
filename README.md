@@ -1,2 +1,2 @@
 # algorithms
-Algorithms And Problem Solving
+General Algorithms And Problem Solving. Each branch contains language specific implementations
