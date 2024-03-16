@@ -1,6 +1,9 @@
 use std::io;
-use std::cmp::Ordering;
 
+/*
+ * Binary search has complexity (O)Log n
+ * This program takes input a user name and searches it in a pre-sorted array
+ */
 fn main() {
     // a sorted list of names
     let names: [&str; 5] = ["Aazim", "Abdullah", "Abid", "Affan", "Ahmed"];
